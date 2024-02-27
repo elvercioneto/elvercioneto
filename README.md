@@ -3,13 +3,35 @@
 ### Me chamo Elvercio Neto 🧔  
   
 
-- 🔭 Trabalho na  [Base2 Tecnologia](https://www.base2.com.br/)  como Especialista de Testes de Software   
-  
+Sou um Especialista de Testes com ampla experiência e dedicação ao aprimoramento da qualidade de software. Ao longo de mais de 14 anos, tenho acumulado experiência sólida e diversificada em diferentes projetos, atuando em empresas de renome e abrangendo diversos setores.
 
-- 💻 Estou utilizando C# com Selenium WebDriver, .NetCore, XUnit e ExtentReport para automatizar os testes dos projetos em que estou trabalhando atualmente.  
-  
+Sou um profissional com certificação CTFL(Certified Tester Foundation Level) pelo BSTQB (Brazilian Software Testing Qualifications Abroad).
 
-- 📝 Tenho focado meus estudos em aprender mais sobre testes automatizados utilizados outras linguagens, outros frameworks.   
+Participei de treinamentos práticos na metodologia ágil SCRUM, com certificação em Scrum Product Owner (CSPO) da SCRUM Alliance.
+
+Tenho acumulado experiências com: 
+
+ - Definição de estratégias de testes, 
+ - Análise de riscos
+ - Revisão de artefatos
+ - Gestão de defeitos
+ - Identificação de testes a serem executados
+ - Melhoria do processo de testes e qualidade de software 
+
+Conhecimentos em: 
+
+- Testes Funcionais
+- Testes Não-Funcionais
+- Testes Exploratórios
+- TDD, ATDD e BDD
+- Testes em APIs Rest (Postman e Swagger)
+- Automação de Testes Web (Selenium + Java + Junit)
+- Automação de Testes Web (Selenium + CSharp + .NetCore + XUnit + ExtentReport)
+- Automação de Testes Web e API com Cypress
+- Automação de Testes Web e API com Robot Framework
+  - Cucumber
+- SQL
+- Metodologias Ágeis
   
 
 <br/>  
