@@ -39,7 +39,7 @@ Conhecimentos em:
 
 ## Meus Skills  
 <div align="center">  
-<img style="margin: 10px" src="https://iconduck.com/icons/20684/robotframework" alt="RobotFramework" height="50" /> 
+<img style="margin: 10px" src="https://iconduck.com/icons/20684/robotframework.svg" alt="RobotFramework" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
