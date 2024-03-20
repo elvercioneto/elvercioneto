@@ -3,7 +3,7 @@
 ### Me chamo Elvercio Neto 🧔  
   
 
-Sou um Especialista de Testes com ampla experiência e dedicação ao aprimoramento da qualidade de software. Ao longo de mais de 14 anos, tenho acumulado experiência sólida e diversificada em diferentes projetos, atuando em empresas de renome e abrangendo diversos setores.
+Sou um profissional com ampla experiência e dedicação ao aprimoramento da Qualidade de Software. Ao longo de mais de 14 anos, tenho acumulado experiência sólida e diversificada em diferentes projetos, atuando em empresas de renome e abrangendo diversos setores.
 
 Sou um profissional com certificação CTFL(Certified Tester Foundation Level) pelo BSTQB (Brazilian Software Testing Qualifications Abroad).
 
@@ -39,6 +39,7 @@ Conhecimentos em:
 
 ## Meus Skills  
 <div align="center">  
+<img style="margin: 10px" src="https://www.svgrepo.com/svg/374049/robotframework" alt="RobotFramework" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
@@ -46,7 +47,11 @@ Conhecimentos em:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /> 
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
 </div>  
 
 <br/>  
