@@ -40,13 +40,10 @@ Conhecimentos em:
 ## Skills  
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/robotframework/visual-identity/blob/master/logo/robot-framework.svg" alt="RobotFramework" height="50" />
-<img style="margin: 10px" src="<svg viewBox="0 0 256 257" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
-	<g>
-		<path d="M201.685002,25.373279 C170.902156,-1.20072103 102.790495,-14.363721 51.7477496,23.787279 C3.8629882,55.886279 1.495,114.558279 1.495,114.558279 C9.65095936,146.657279 42.0127981,177.441279 104.368487,162.444279 C97.0015241,119.294279 111.440452,10.113279 201.685002,25.373279 Z" fill="#00ACD2"></path>
-		<path d="M169.62,129.732998 C135.935,157.687998 33.402,200.344998 1.495,114.559998 C-6.127,154.505998 15.024,220.990998 73.584,246.119998 C125.326,271.539998 179.248,242.099998 179.248,242.099998 C202.968,218.986998 213.786,176.235998 169.62,129.732998" fill="#C8E9EB"></path>
-		<path d="M108.779,90.5238771 C149.831,105.718877 237.586,171.574877 179.248,242.099877 C217.653,228.726877 262.688,177.560877 255.17,114.281877 C251.314,56.7618771 201.686,25.3748771 201.686,25.3748771 C169.81,16.3888771 126.969,29.0238771 108.779,90.5238771" fill="#662D91"></path>
-	</g>
-</svg>" alt="Appium" height="50" />
+<img style="margin: 10px" src="<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 256 256">
+	<rect width="256" height="256" fill="none" />
+	<path fill="#662d91" d="M.295 119.397c24.814 57.004 87.778 66.563 162.925 18.246c34.66 32.08 43.295 70.11 14.374 108.392C162.341 252.451 145.586 256 128 256C57.308 256 0 198.692 0 128c0-2.89.106-5.758.295-8.602m117.059-24.744c11.205-46.695 42.494-73.48 91.678-65.737C237.702 52.39 256 88.056 256 128c0 50.395-29.126 93.979-71.46 114.857c38.457-54.784 7.03-112.584-67.186-148.204M128 0c27.435 0 52.85 8.635 73.687 23.33c-69.951-8.132-102.984 50.175-98.37 130.694c-45.452 13.941-82.48 3.669-102.048-44.047C10.03 47.819 63.427 0 128 0" />
+</svg>" alt="RobotFramework" height="50" />
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
