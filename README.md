@@ -28,8 +28,8 @@ Conhecimentos em:
 - Automação de Testes Web (Selenium + Java + Junit)
 - Automação de Testes Web (Selenium + CSharp + .NetCore + XUnit + ExtentReport)
 - Automação de Testes Web e API com Cypress
-- Automação de Testes Web e API com Robot Framework
-  - Cucumber
+- Automação de Testes Web, API e Mobile com Robot Framework
+- Cucumber
 - SQL
 - Metodologias Ágeis
   
