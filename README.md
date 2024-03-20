@@ -40,7 +40,13 @@ Conhecimentos em:
 ## Skills  
 <div align="center">  
 <img style="margin: 10px" src="https://github.com/robotframework/visual-identity/blob/master/logo/robot-framework.svg" alt="RobotFramework" height="50" />
-<img style="margin: 10px" src="https://worldvectorlogo.com/download/appium.svg" alt="Appium" height="50" />
+<img style="margin: 10px" src="<svg viewBox="0 0 256 257" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+	<g>
+		<path d="M201.685002,25.373279 C170.902156,-1.20072103 102.790495,-14.363721 51.7477496,23.787279 C3.8629882,55.886279 1.495,114.558279 1.495,114.558279 C9.65095936,146.657279 42.0127981,177.441279 104.368487,162.444279 C97.0015241,119.294279 111.440452,10.113279 201.685002,25.373279 Z" fill="#00ACD2"></path>
+		<path d="M169.62,129.732998 C135.935,157.687998 33.402,200.344998 1.495,114.559998 C-6.127,154.505998 15.024,220.990998 73.584,246.119998 C125.326,271.539998 179.248,242.099998 179.248,242.099998 C202.968,218.986998 213.786,176.235998 169.62,129.732998" fill="#C8E9EB"></path>
+		<path d="M108.779,90.5238771 C149.831,105.718877 237.586,171.574877 179.248,242.099877 C217.653,228.726877 262.688,177.560877 255.17,114.281877 C251.314,56.7618771 201.686,25.3748771 201.686,25.3748771 C169.81,16.3888771 126.969,29.0238771 108.779,90.5238771" fill="#662D91"></path>
+	</g>
+</svg>" alt="Appium" height="50" />
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
