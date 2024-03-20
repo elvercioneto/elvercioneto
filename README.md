@@ -40,7 +40,7 @@ Conhecimentos em:
 ## Skills  
 <div align="center">  
 <img style="margin: 10px" src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" alt="RobotFramework" height="50" />
-<img style="margin: 10px" src="https://en.m.wikipedia.org/wiki/File:Robot-framework-logo.png" alt="RobotFramework" height="50" />
+<img style="margin: 10px" src="https://github.com/robotframework/visual-identity/blob/master/logo/robot-framework.svg" alt="RobotFramework" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
